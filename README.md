@@ -2,7 +2,7 @@
 
 Animate between SVG shapes. Upload up to five SVG frames and Morphium morphs one into the next, with the bézier anchors, handles and their coordinates drawn over the shape.
 
-**Try it:** https://genz000.github.io/morphium/ (desktop browser, window at least 1024 px wide)
+**Try it:** https://genz000.github.io/Morphium/ (desktop browser, window at least 1024 px wide)
 
 ## What it does
 
